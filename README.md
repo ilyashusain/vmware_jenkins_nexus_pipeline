@@ -3,7 +3,7 @@
 # Recommended Setup:
 
 - A containerized jenkins instance
-- A containerized nexus instance (v3).
+- A containerized nexus3 instance.
 
 *NOTE: if your jenkins and nexus instances are not containerized, the guidelines set out here are still applicable.*
 
